@@ -1,10 +1,11 @@
+---
 layout: post
 title:  "The Future of Web Application Security"
+highlight: true
 date:   2015-11-12 11:34:20
 categories: Web Security
 author: JV
 image: http://i1.wp.com/wptavern.com/wp-content/uploads/2014/12/jekyll.png
-
 ---
 Over a decade after their widespread adoption, web applications on the Internet today are still rife with vulnerabilities. Understanding of the security threats facing web applications, and effective ways of addressing these, are still underde- veloped within the industry. There is currently little indication that the problem factors described in this chapter will disappear in the near future.
 That said, the details of the web application security landscape are not static. Even though old and well-understood vulnerabilities such as SQL injection continue to appear, their prevalence is gradually diminishing. Furthermore, the instances that remain are becoming more difficult to find and exploit. New research in these areas is generally focused on developing advanced techniques for attacking more subtle manifestations of vulnerabilities that a few years ago could be easily detected and exploited using only a browser.

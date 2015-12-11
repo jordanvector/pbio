@@ -6,10 +6,10 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title>About</title>
-  <meta name="description" content="The ramblings of a developer/security enthusiast">
+  <title>The Future of Web Application Security</title>
+  <meta name="description" content="Over a decade after their widespread adoption, web applications on the Internet today are still rife with vulnerabilities. Understanding of the security thre...">
 
-  <link rel="canonical" href="http://projectblack.io/about/">
+  <link rel="canonical" href="http://projectblack.io/web/security/2015/11/12/future-of-web-security.html">
   <link rel="alternate" type="application/rss+xml" title="Project Black IO" href="http://projectblack.io/feed.xml" />
 
   <!-- Material Design Lite css Library -->
@@ -99,91 +99,51 @@
     <div class="mdl-cell mdl-cell--2-col mdl-cell--hide-tablet mdl-cell--hide-phone"></div>
     <div class="post-section mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--8-col">
       <div class="mdl-color-text--grey-500">
-      
+      Nov 12, 2015 • JV •  Web  Security  
       </div>
-      <h3>About</h3>
+      <h3>The Future of Web Application Security</h3>
       <article class="post-content">
-        <p><h6 id="a-jekyll-theme-based-in-google-material-design-lite-library">A Jekyll theme based in Google Material Design Lite library.</h6>
+        <p><p>Over a decade after their widespread adoption, web applications on the Internet today are still rife with vulnerabilities. Understanding of the security threats facing web applications, and effective ways of addressing these, are still underde- veloped within the industry. There is currently little indication that the problem factors described in this chapter will disappear in the near future.</p>
 
-<p>This is the base Jekyll Material Design Lite theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at <a href="http://jekyllrb.com/">jekyllrb.com</a></p>
+<p>That said, the details of the web application security landscape are not static. Even though old and well-understood vulnerabilities such as SQL injection continue to appear, their prevalence is gradually diminishing. Furthermore, the instances that remain are becoming more difficult to find and exploit. New research in these areas is generally focused on developing advanced techniques for attacking more subtle manifestations of vulnerabilities that a few years ago could be easily detected and exploited using only a browser.</p>
 
-<p>You can find the source code for the Jekyll MDL theme at: <a href="https://github.com/gdg-managua/jekyll-mdl">github.com/gdg-managua/jekyll-mdl</a></p>
+<p>A second prominent trend has been a gradual shift in attention from attacks against the server side of the application to those that target application users. The latter kind of attack still leverages defects within the application itself, but it generally involves some kind of interaction with another user to compromise that user’s dealings with the vulnerable application. This is a trend that has been replicated in other areas of software security. As awareness of security threats matures, flaws in the server side are the first to be well understood and addressed, leaving the client side as a key battleground as the learning process continues. Of all the attacks described in this book, those against other users are evolving the most quickly, and they have been the focus of most research in recent years.</p>
 
-<p>You can find the source code for Jekyll at <a href="https://github.com/jekyll/jekyll">github.com/jekyll/jekyll</a></p>
+<p>Various recent trends in technology have somewhat altered the landscape of web applications. Popular consciousness about these trends exists by means of various rather misleading buzzwords, the most prominent of which are these:</p>
 
-<h6 id="sites-using-jekyll-mdl">Sites using jekyll-mdl</h6>
+<p>Web 2.0 — This term refers to the greater use of functionality that enables user-generated content and information sharing, and also the adoption of various technologies that broadly support this functionality, including asynchronous HTTP requests and cross-domain integration.</p>
 
-<p>If you are using this cool jekyll theme, please open an issue or fork the project, add your site to the list and send a pull request, we will be happy to know where the theme are using.</p>
+<p>Cloud computing — This term refers to greater use of external service providers for various parts of the technology stack, including applica- tion software, application platforms, web server software, databases, and hardware. It also refers to increased usage of virtualization technologies within hosting environments.</p>
 
-<p><a href="http://fandekasp.github.io/">fandekasp.github.io</a></p>
+<p>As with most changes in technology, these trends have brought with them some new attacks and variations on existing attacks. Notwithstanding the hype, the issues raised are not quite as revolutionary as they may initially appear. We will examine the security implications of these and other recent trends in the appropriate locations throughout this book.</p>
 
-<h6 id="custom-themes">Custom Themes</h6>
-
-<p>If you don’t want the default site colors, you can create custom themes for the site in the <a href="http://www.getmdl.io/customize/index.html">mdl theme creator</a>. The site will create a custom css, something like this:</p>
-
-<div class="highlighter-rouge"><pre class="highlight"><code> &lt;link rel="stylesheet" href="https://storage.googleapis.com/code.getmdl.io/1.0.0/material.teal-green.min.css" /&gt;
-</code></pre>
-</div>
-
-<p>Now add this in the _includes/head.html file, under the main css and enjoy your new theme.</p>
-
-<h6 id="post-options">Post Options</h6>
-
-<p>All the post, require an image and maybe an author, the image are used in the cards and the autor used for the footer in the cards. For use the images and author, just add a new key in the post config, something like this:</p>
-
-<div class="highlighter-rouge"><pre class="highlight"><code>---
-layout: post
-title:  "Welcome to jekyll-mdl"
-date:   2015-07-11 11:34:20
-categories: jekyll
-image: http://www.wchs4pets.org/wp-content/uploads/2015/03/cat_1-jpg.jpg
-author: Google Developers Group Managua
----
-</code></pre>
-</div>
-
-<h6 id="layout-configuration">Layout Configuration</h6>
-<p>You can setup 4 types of layout</p>
-
-<div class="highlighter-rouge"><pre class="highlight"><code>- Fixed Nav + Simple Card Grid
-- Fixed Nav + Highlight Post + Card Grid
-- Drawer Nav + Simple Card Grid
-- Drawer Nav + Highlight Post + Card Grid
-</code></pre>
-</div>
-
-<p>For use this in the <a href="https://github.com/gdg-managua/jekyll-mdl/blob/master/_config.yml">_config.yml</a> select the type of layout, rebuild the website and voilà :smile:</p>
-
-<h6 id="contributing">Contributing</h6>
-<p>If you want to contribute to this project, please read the <a href="https://github.com/gdg-managua/jekyll-mdl/blob/master/CONTRIBUTING.md">CONTRIBUTING</a> file and perform the following steps</p>
-
-<div class="highlighter-rouge"><pre class="highlight"><code># Fork this repository
-# Clone your fork
-jekyll serve --watch
-
-git checkout -b feature_branch
-# Implement your feature and tests
-git add . &amp;&amp; git commit
-git push -u origin feature_branch
-# Send a pull request for your feature branch
-</code></pre>
-</div>
-
-<h6 id="team">Team</h6>
-<p><a href="http://github.com/oscarmcm"><img src="https://avatars.githubusercontent.com/u/2553459?v=3&amp;s=100" alt="Oscar Cortez" /></a>
-<a href="https://github.com/byroncorrales"><img src="https://avatars.githubusercontent.com/u/99616?v=3&amp;s=100" alt="Byron Corrales" /></a></p>
-
-<h6 id="license">License</h6>
-<p>Licensed under the Apache 2.0 license.</p>
-
-<p>See the <a href="https://github.com/gdg-managua/jekyll-mdl/blob/master/LICENSE.md">LICENSE</a> file for more details.</p>
-
-<p>Copyright © 2015 <a href="http://www.gdgmanagua.org">Google Developers Group Managua</a>.</p>
+<p>Despite all the changes that have occurred within web applications, some categories of “classic” vulnerabilities show no sign of diminishing. They continue to arise in pretty much the same form as they did in the earliest days of the web. These include defects in business logic, failures to properly apply access controls, and other design issues. Even in a world of bolted-together applica- tion components and everything-as-a-service, these timeless issues are likely to remain widespread.</p>
 </p>
       </article>
+      <!-- Disqus comments -->
+      
+      <div>
+        <h3>Comments</h3>
+        <section class="disqus">
+    <div id="disqus_thread"></div>
+    <script type="text/javascript">
+        var disqus_shortname = 'gdgmanagua';
+        var disqus_developer = 0; // developer mode is on
+        (function() {
+            var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+            dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+            (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+        })();
+    </script>
+    <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+    <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+</section>
+
+      </div>
+      
     </div>
   </div>
-  </main>
+</main>
 
         <footer class="mdl-mega-footer">
   <div class="mdl-mega-footer--middle-section">

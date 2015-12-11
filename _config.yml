@@ -28,3 +28,7 @@ disqus_shortname: 'gdgmanagua'
 
 # Build settings
 markdown: kramdown
+
+# sass settings
+sass:
+    sass_dir: _sass

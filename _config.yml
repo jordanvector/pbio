@@ -26,8 +26,8 @@ more_vert:
 disqus: true
 disqus_shortname: 'gdgmanagua'
 
+sass:
+    style: compressed
+
 # Build settings
 markdown: kramdown
-
-sass:
-    sass_dir: _sass

@@ -1,6 +1,6 @@
 # Site settings
 title: Project Black IO
-email: jvschin@gmail.com
+email: something@email.com
 description: The ramblings of a developer/security enthusiast
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://projectblack.io" # the base hostname & protocol for your site

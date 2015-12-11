@@ -29,4 +29,5 @@ disqus_shortname: 'gdgmanagua'
 # Build settings
 markdown: kramdown
 
-gems: [jekyll-watch, jekyll-assets]
+sass:
+  sass_dir: _sass

@@ -22,6 +22,10 @@
   .mdl-card__menu {
     color: #fff;
   }
+
+  .mdl-button.mdl-button--colored {
+      color: black;
+  }
 }
 
 .post-button{
@@ -78,4 +82,10 @@
     right: 8px;
   }
 
+}
+
+//header styling
+
+.mdl-layout__header {
+  background-color: black;
 }

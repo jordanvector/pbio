@@ -5,8 +5,8 @@
     <description>The ramblings of a developer/security enthusiast</description>
     <link>http://projectblack.io/</link>
     <atom:link href="http://projectblack.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 11 Dec 2015 22:42:25 -0500</pubDate>
-    <lastBuildDate>Fri, 11 Dec 2015 22:42:25 -0500</lastBuildDate>
+    <pubDate>Fri, 11 Dec 2015 22:43:22 -0500</pubDate>
+    <lastBuildDate>Fri, 11 Dec 2015 22:43:22 -0500</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
       <item>
@@ -21,7 +21,7 @@
 
 &lt;p&gt;Web 2.0 — This term refers to the greater use of functionality that enables user-generated content and information sharing, and also the adoption of various technologies that broadly support this functionality, including asynchronous HTTP requests and cross-domain integration.&lt;/p&gt;
 
-&lt;p&gt;Cloud computing — This term refers to greater use of external service providers for various parts of the technology stack, including applica- tion software, application platforms, web server software, databases, and hardware. It also refers to increased usage of virtualization technologies within hosting environments.&lt;/p&gt;
+&lt;p&gt;Cloud computing — This term refers to greater use of external service providers for various parts of the technology stack, including application software, application platforms, web server software, databases, and hardware. It also refers to increased usage of virtualization technologies within hosting environments.&lt;/p&gt;
 
 &lt;p&gt;As with most changes in technology, these trends have brought with them some new attacks and variations on existing attacks. Notwithstanding the hype, the issues raised are not quite as revolutionary as they may initially appear. We will examine the security implications of these and other recent trends in the appropriate locations throughout this book.&lt;/p&gt;
 

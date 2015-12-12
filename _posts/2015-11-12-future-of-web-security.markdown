@@ -18,7 +18,7 @@ Various recent trends in technology have somewhat altered the landscape of web a
 
 Web 2.0 — This term refers to the greater use of functionality that enables user-generated content and information sharing, and also the adoption of various technologies that broadly support this functionality, including asynchronous HTTP requests and cross-domain integration.
 
-Cloud computing — This term refers to greater use of external service providers for various parts of the technology stack, including applica- tion software, application platforms, web server software, databases, and hardware. It also refers to increased usage of virtualization technologies within hosting environments.
+Cloud computing — This term refers to greater use of external service providers for various parts of the technology stack, including application software, application platforms, web server software, databases, and hardware. It also refers to increased usage of virtualization technologies within hosting environments.
 
 As with most changes in technology, these trends have brought with them some new attacks and variations on existing attacks. Notwithstanding the hype, the issues raised are not quite as revolutionary as they may initially appear. We will examine the security implications of these and other recent trends in the appropriate locations throughout this book.
 

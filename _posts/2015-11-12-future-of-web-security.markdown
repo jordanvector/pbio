@@ -3,7 +3,7 @@ layout: post
 title:  "The Future of Web Application Security"
 highlight: true
 date:   2015-11-12 11:34:20
-categories: Web Security
+categories: Web
 author: JV
 image: http://www.imperva.com/assets/images/web_application_security.jpg
 backgroundimage: http://www.drasecurity.com/images/slides/index-5.jpg

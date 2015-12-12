@@ -6,7 +6,7 @@ date:   2015-11-12 11:34:20
 categories: Web Security
 author: JV
 image: http://www.imperva.com/assets/images/web_application_security.jpg
-image2: http://www.drasecurity.com/images/slides/index-5.jpg
+backgroundimage: http://www.drasecurity.com/images/slides/index-5.jpg
 ---
 Over a decade after their widespread adoption, web applications on the Internet today are still rife with vulnerabilities. Understanding of the security threats facing web applications, and effective ways of addressing these, are still underde- veloped within the industry. There is currently little indication that the problem factors described in this chapter will disappear in the near future.
 

@@ -5,8 +5,8 @@
     <description>The ramblings of a developer/security enthusiast</description>
     <link>http://projectblack.io/</link>
     <atom:link href="http://projectblack.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 11 Dec 2015 19:06:05 -0500</pubDate>
-    <lastBuildDate>Fri, 11 Dec 2015 19:06:05 -0500</lastBuildDate>
+    <pubDate>Fri, 11 Dec 2015 22:30:44 -0500</pubDate>
+    <lastBuildDate>Fri, 11 Dec 2015 22:30:44 -0500</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
       <item>
@@ -28,13 +28,28 @@
 &lt;p&gt;Despite all the changes that have occurred within web applications, some categories of “classic” vulnerabilities show no sign of diminishing. They continue to arise in pretty much the same form as they did in the earliest days of the web. These include defects in business logic, failures to properly apply access controls, and other design issues. Even in a world of bolted-together applica- tion components and everything-as-a-service, these timeless issues are likely to remain widespread.&lt;/p&gt;
 </description>
         <pubDate>Thu, 12 Nov 2015 06:34:20 -0500</pubDate>
-        <link>http://projectblack.io/web/security/2015/11/12/future-of-web-security.html</link>
-        <guid isPermaLink="true">http://projectblack.io/web/security/2015/11/12/future-of-web-security.html</guid>
+        <link>http://projectblack.io/web/2015/11/12/future-of-web-security.html</link>
+        <guid isPermaLink="true">http://projectblack.io/web/2015/11/12/future-of-web-security.html</guid>
         
         
         <category>Web</category>
         
-        <category>Security</category>
+      </item>
+    
+      <item>
+        <title>DEFCON: You Spent All That Money And You Still Got Owned</title>
+        <description>&lt;p&gt;This video is about one of our favorite lecturers from DEFCON, Joseph McCray.  McCray is very experienced in the CompSec world and does a very good job of explaining very difficult concepts in an easy to understand way.&lt;/p&gt;
+
+&lt;p&gt;He swears quite often, so if you are offended by that then this video is not for you.  For everyone else, this guys is awesome and he doesn’t sound like the typical computer nerd that is trying to confuse you with his intelligence.  Enjoy.&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/tJsNu0VRKYY&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+</description>
+        <pubDate>Thu, 12 Nov 2015 05:14:20 -0500</pubDate>
+        <link>http://projectblack.io/defcon/2015/11/12/you-spent-all-that-money-and-got-owned.html</link>
+        <guid isPermaLink="true">http://projectblack.io/defcon/2015/11/12/you-spent-all-that-money-and-got-owned.html</guid>
+        
+        
+        <category>DefCon</category>
         
       </item>
     

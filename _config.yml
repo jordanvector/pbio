@@ -2,7 +2,7 @@
 title: Project Black IO
 email: something@email.com
 description: The ramblings of a developer/security enthusiast.  I made this site as a reference for multiple cyber security exams that I have taken.  Blogging about the material has helped quite a bit so maybe someone else will find it helpful too.
-baseurl: "" # the subpath of your site, e.g. /blog/
+baseurl: "/" # the subpath of your site, e.g. /blog/
 url: "http://projectblack.io" # the base hostname & protocol for your site
 twitter_username: thedawddler
 github_username:  jordanvector

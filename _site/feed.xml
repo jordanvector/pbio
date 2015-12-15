@@ -3,10 +3,10 @@
   <channel>
     <title>Project Black IO</title>
     <description>The ramblings of a developer/security enthusiast.  I made this site as a reference for multiple cyber security exams that I have taken.  Blogging about the material has helped quite a bit so maybe someone else will find it helpful too.</description>
-    <link>http://projectblack.io/</link>
-    <atom:link href="http://projectblack.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 15 Dec 2015 17:24:51 -0600</pubDate>
-    <lastBuildDate>Tue, 15 Dec 2015 17:24:51 -0600</lastBuildDate>
+    <link>http://projectblack.io//</link>
+    <atom:link href="http://projectblack.io//feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 15 Dec 2015 17:46:26 -0600</pubDate>
+    <lastBuildDate>Tue, 15 Dec 2015 17:46:26 -0600</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
       <item>
@@ -18,8 +18,8 @@
 &lt;p&gt;The Open Web Application Security Project (OWASP) is an open-source web application security project. The OWASP community includes corporations, educational organizations, and individuals from around the world. This community works to create freely-available articles, methodologies, documentation, tools, and technologies. The OWASP Foundation is a 501(c)(3) charitable organization that supports and manages OWASP projects and infrastructure. It is also a registered non profit in Europe since June 2011.&lt;/p&gt;
 </description>
         <pubDate>Tue, 15 Dec 2015 04:14:20 -0600</pubDate>
-        <link>http://projectblack.io/web/2015/12/15/owasp.html</link>
-        <guid isPermaLink="true">http://projectblack.io/web/2015/12/15/owasp.html</guid>
+        <link>http://projectblack.io//web/2015/12/15/owasp.html</link>
+        <guid isPermaLink="true">http://projectblack.io//web/2015/12/15/owasp.html</guid>
         
         
         <category>Web</category>
@@ -45,8 +45,8 @@
 &lt;p&gt;Despite all the changes that have occurred within web applications, some categories of “classic” vulnerabilities show no sign of diminishing. They continue to arise in pretty much the same form as they did in the earliest days of the web. These include defects in business logic, failures to properly apply access controls, and other design issues. Even in a world of bolted-together applica- tion components and everything-as-a-service, these timeless issues are likely to remain widespread.&lt;/p&gt;
 </description>
         <pubDate>Thu, 12 Nov 2015 05:34:20 -0600</pubDate>
-        <link>http://projectblack.io/web/2015/11/12/future-of-web-security.html</link>
-        <guid isPermaLink="true">http://projectblack.io/web/2015/11/12/future-of-web-security.html</guid>
+        <link>http://projectblack.io//web/2015/11/12/future-of-web-security.html</link>
+        <guid isPermaLink="true">http://projectblack.io//web/2015/11/12/future-of-web-security.html</guid>
         
         
         <category>Web</category>
@@ -62,8 +62,8 @@
 &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/tJsNu0VRKYY&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 </description>
         <pubDate>Thu, 12 Nov 2015 04:14:20 -0600</pubDate>
-        <link>http://projectblack.io/defcon/2015/11/12/you-spent-all-that-money-and-got-owned.html</link>
-        <guid isPermaLink="true">http://projectblack.io/defcon/2015/11/12/you-spent-all-that-money-and-got-owned.html</guid>
+        <link>http://projectblack.io//defcon/2015/11/12/you-spent-all-that-money-and-got-owned.html</link>
+        <guid isPermaLink="true">http://projectblack.io//defcon/2015/11/12/you-spent-all-that-money-and-got-owned.html</guid>
         
         
         <category>DefCon</category>

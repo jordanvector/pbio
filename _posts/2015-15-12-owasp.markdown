@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Open Web Application Security Project (OWASP)"
+date:   2015-12-15 10:14:20
+categories: Web
+author: JV
+image:  http://4.bp.blogspot.com/-_cHZwAPknoU/Ut1kqx12z9I/AAAAAAAAArw/Znx0PIdADPU/s1600/owaspfin1.png
+backgroundimage: https://www.govloop.com/wp-content/uploads/2014/09/HiRes5.jpg
+---
+
+The Open Web Application Security Project (OWASP) is an open-source web application security project. The OWASP community includes corporations, educational organizations, and individuals from around the world.
+
+This community works to create freely-available articles, methodologies, documentation, tools, and technologies. The OWASP Foundation is a 501(c)(3) charitable organization that supports and manages OWASP projects and infrastructure. It is also a registered non profit in Europe since June 2011.
+
+The Open Web Application Security Project (OWASP) is an open-source web application security project. The OWASP community includes corporations, educational organizations, and individuals from around the world. This community works to create freely-available articles, methodologies, documentation, tools, and technologies. The OWASP Foundation is a 501(c)(3) charitable organization that supports and manages OWASP projects and infrastructure. It is also a registered non profit in Europe since June 2011.

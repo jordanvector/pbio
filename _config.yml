@@ -1,16 +1,16 @@
 # Site settings
 title: Project Black IO
 email: something@email.com
-description: The ramblings of a developer/security enthusiast
+description: The ramblings of a developer/security enthusiast.  I made this site as a reference for multiple cyber security exams that I have taken.  Blogging about the material has helped quite a bit so maybe someone else will find it helpful too.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://projectblack.io" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: thedawddler
+github_username:  jordanvector
 
 # Layout settings
 header_type: default  # values [ drawer, default ]
 post_type: highlight    # values [ highlight, default ]
-pagination_type: default  # values [ ops, default ]
+pagination_type: ops  # values [ ops, default ]
 
 more_vert:
   option1:
@@ -24,7 +24,7 @@ more_vert:
     link: www.myawesomelink.com
 
 disqus: true
-disqus_shortname: 'gdgmanagua'
+disqus_shortname: 'project black'
 
 # Build settings
 markdown: kramdown

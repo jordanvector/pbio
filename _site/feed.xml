@@ -5,8 +5,8 @@
     <description>The ramblings of a developer/security enthusiast.  I made this site as a reference for multiple cyber security exams that I have taken.  Blogging about the material has helped quite a bit so maybe someone else will find it helpful too.</description>
     <link>http://projectblack.io/</link>
     <atom:link href="http://projectblack.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 31 Dec 2015 14:06:57 -0500</pubDate>
-    <lastBuildDate>Thu, 31 Dec 2015 14:06:57 -0500</lastBuildDate>
+    <pubDate>Thu, 31 Dec 2015 14:11:08 -0500</pubDate>
+    <lastBuildDate>Thu, 31 Dec 2015 14:11:08 -0500</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
       <item>
@@ -74,9 +74,9 @@ We expect more such vulnerabilities to surface in the coming months and to be ex
 
 &lt;p&gt;The Open Web Application Security Project (OWASP) is an open-source web application security project. The OWASP community includes corporations, educational organizations, and individuals from around the world. This community works to create freely-available articles, methodologies, documentation, tools, and technologies. The OWASP Foundation is a 501(c)(3) charitable organization that supports and manages OWASP projects and infrastructure. It is also a registered non profit in Europe since June 2011.&lt;/p&gt;
 </description>
-        <pubDate>Tue, 15 Dec 2015 05:14:20 -0500</pubDate>
-        <link>http://projectblack.io/web/2015/12/15/owasp.html</link>
-        <guid isPermaLink="true">http://projectblack.io/web/2015/12/15/owasp.html</guid>
+        <pubDate>Sun, 15 Nov 2015 05:14:20 -0500</pubDate>
+        <link>http://projectblack.io/web/2015/11/15/owasp.html</link>
+        <guid isPermaLink="true">http://projectblack.io/web/2015/11/15/owasp.html</guid>
         
         
         <category>Web</category>

@@ -3,7 +3,6 @@ layout: post
 title:  "The Top 6 Mobile Security Threats for 2016"
 date:   2015-12-15 10:14:20
 categories: Mobile
-highlight: true
 author: JV
 image:  https://metova.com/wp-content/uploads/2015/08/phone-869669_1280.jpg
 backgroundimage: http://gadgetsdairy.com/wp-content/uploads/2013/08/android_green_wallpaper.jpg

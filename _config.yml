@@ -6,6 +6,7 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://projectblack.io" # the base hostname & protocol for your site
 twitter_username: thedawddler
 github_username:  jordanvector
+base_image: "http://www.post-gazette.com/image/2013/11/01/ca6,23,2081,1407/cybersecurity-1.jpg"
 
 # Layout settings
 header_type: default  # values [ drawer, default ]
